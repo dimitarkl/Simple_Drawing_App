@@ -1,0 +1,16 @@
+C:\Users\nekav\Desktop\uni\c#\Project\Project\bin\Debug\net7.0-windows\Project.exe
+C:\Users\nekav\Desktop\uni\c#\Project\Project\bin\Debug\net7.0-windows\Project.deps.json
+C:\Users\nekav\Desktop\uni\c#\Project\Project\bin\Debug\net7.0-windows\Project.runtimeconfig.json
+C:\Users\nekav\Desktop\uni\c#\Project\Project\bin\Debug\net7.0-windows\Project.dll
+C:\Users\nekav\Desktop\uni\c#\Project\Project\bin\Debug\net7.0-windows\Project.pdb
+C:\Users\nekav\Desktop\uni\c#\Project\Project\obj\Debug\net7.0-windows\Project.Form1.resources
+C:\Users\nekav\Desktop\uni\c#\Project\Project\obj\Debug\net7.0-windows\Project.csproj.GenerateResource.cache
+C:\Users\nekav\Desktop\uni\c#\Project\Project\obj\Debug\net7.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nekav\Desktop\uni\c#\Project\Project\obj\Debug\net7.0-windows\Project.AssemblyInfoInputs.cache
+C:\Users\nekav\Desktop\uni\c#\Project\Project\obj\Debug\net7.0-windows\Project.AssemblyInfo.cs
+C:\Users\nekav\Desktop\uni\c#\Project\Project\obj\Debug\net7.0-windows\Project.csproj.CoreCompileInputs.cache
+C:\Users\nekav\Desktop\uni\c#\Project\Project\obj\Debug\net7.0-windows\Project.dll
+C:\Users\nekav\Desktop\uni\c#\Project\Project\obj\Debug\net7.0-windows\refint\Project.dll
+C:\Users\nekav\Desktop\uni\c#\Project\Project\obj\Debug\net7.0-windows\Project.pdb
+C:\Users\nekav\Desktop\uni\c#\Project\Project\obj\Debug\net7.0-windows\Project.genruntimeconfig.cache
+C:\Users\nekav\Desktop\uni\c#\Project\Project\obj\Debug\net7.0-windows\ref\Project.dll
